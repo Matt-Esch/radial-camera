@@ -1,0 +1,33 @@
+{
+  "name": "radial-camera",
+  "version": "0.1.0",
+  "description": "Compute the camera model view matrix based on a given radius and two angles of rotation about a point in 3D space",
+  "keywords": [],
+  "author": "Matt-Esch <matt@mattesch.info>",
+  "repository": "git://github.com/Matt-Esch/radial-camera.git",
+  "main": "index",
+  "homepage": "https://github.com/Matt-Esch/radial-camera",
+  "contributors": [
+    {
+      "name": "Matt Esch"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Matt-Esch/radial-camera/issues",
+    "email": "matt@mattesch.info"
+  },
+  "dependencies": {
+      "numeric": "~1.2.6"
+  },
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Matt-Esch/radial-camera/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {
+    "test": "tap --stderr --tap ./test"
+  }
+}
