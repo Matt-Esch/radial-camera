@@ -2,7 +2,7 @@
   "name": "radial-camera",
   "version": "0.1.0",
   "description": "Compute a model view matrix based on a radius and two rotations about a point",
-  "keywords": ['camera', 'matrix', 'radial'],
+  "keywords": ["camera", "matrix", "radial"],
   "author": "Matt-Esch <matt@mattesch.info>",
   "repository": "git://github.com/Matt-Esch/radial-camera.git",
   "main": "index",
